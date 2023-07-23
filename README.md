@@ -3,4 +3,6 @@ Calculates the number of perfect matchings of any snake graph by using the corre
 
 
 <img width="695" alt="Screenshot 2023-07-23 at 16 50 27" src="https://github.com/BonucciAndrea/SnakeGraphPerfectMatchingsCalculator/assets/89645554/b87fe3d4-276f-4bde-a6f5-83b636934eb6">
+
+
 For example, the Christoffel words of the above two snake graphs are "enne" and "eeenneee".
